@@ -79,5 +79,5 @@ TYPE/BRANCH_NAME
 dev/issues10
 ```
 ```
-docs/issues21
+doc/issues21
 ```
