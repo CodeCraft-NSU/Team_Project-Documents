@@ -64,8 +64,10 @@
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/569919cc-8575-4e02-bdac-e52caf239425)
 
-- 작업이 모두 끝난 후에 다시 작업을 진행하려면 다시 Fork를 할 것이 아니라 내 계정에 있는 Fork된 Repository에 들어가 Sync fork -> Update branch를 실행해 Repository를 최신화한 뒤 작업을 진행한다.
+- 작업이 모두 끝난 후에 다시 작업을 진행하려면 다시 Fork를 할 것이 아니라, 내 계정에 있는 Fork된 Repository에 들어가 Sync fork -> Update branch를 실행해 Repository를 최신화한 뒤 작업을 진행한다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/9881ed8b-30d2-4870-a42e-437d7ae6b5ec)
 
+[PR 예시](https://github.com/kimch0612/OOP2_Project/pull/7)
 
+끝.
