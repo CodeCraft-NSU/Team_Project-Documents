@@ -23,7 +23,7 @@
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/51be9630-4205-418e-8b63-8e65305cdfb0)
 
 - Commit message는 [Commit Rule](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md#commit-rule)에 따라 작성하고, Extended description은 수정사항에 대해 간략한 설명을 작성한다.
-- 하단에 있는 branch 파트는 'Commit directly to the master branch'에서 'Create a new branch for this commit and start a pull request'로 변경하고, Branch name(kimch0612-patch-1)을 [Branch Rule](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md#branch-rule)에 맞게 작성한다.
+- 하단에 있는 branch 파트는 'Commit directly to the master branch'에서 'Create a new branch for this commit and start a pull request'로 변경하고, Branch name을 [Branch Rule](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md#branch-rule)에 맞게 작성한다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/82aee5cd-3a32-46df-973c-f2413fadd5fa)
 
