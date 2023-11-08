@@ -20,4 +20,7 @@
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/7171041c-f410-49c9-9e5e-132a72cb04b5)
 
+#### [Issue 예시 1](https://github.com/kimch0612/OOP2_Project/issues/3)
+#### [Issue 예시 2](https://github.com/kimch0612/OOP2_Project/issues/10)
+
 끝.
