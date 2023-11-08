@@ -1,5 +1,5 @@
 ## Conventions
-
+- 이 문서에는 Team Project를 진행하며 공동으로 사용하게 될 Git Repository에서 어떤 식으로 작업을 진행하면 되는지에 대한 룰이 기재돼있습니다.
 - Team Leader를 제외한 이들의 모든 작업내용은 Issue로 작성한 뒤, Fork된 Repository에서 Branch를 분리하여 작업하고, PR을 통해 상호간 Code-Review 이후 마지막에 Approve한 Reviewer가 Master Branch에 Merge 합니다.
 
 ---
