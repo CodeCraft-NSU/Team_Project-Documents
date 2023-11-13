@@ -30,6 +30,10 @@
 - Propose changes 버튼을 클릭하면 자동으로 Pull Requests 창으로 넘어올텐데, title과 description을 [작업 협약](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md)에 맞춰서 작성한다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/01718f34-9eb8-4eb0-bc5a-e1e85f30244b)
+- 이때, 본문과 댓글에서 Markdown 문법을 통해 글을 작성할 수 있는데, 자세한 작성 방법(문법)은 [Markdown Syntax 문서](Markdown_Syntax.md)를 참고할 것.
+
+![image](https://github.com/kimch0612/OOP2_Project/assets/10193967/f49ec036-e7df-4cfb-ba97-1e66b92fb4c3)
+![image](https://github.com/kimch0612/OOP2_Project/assets/10193967/17cb42c7-9949-468b-922d-879b1fc9015e)
 
 - Reviewers에 Project Leader를 선택한다.
   - 만약 자신이 직접 설정할 수 없는 상태라면 Reviewers~Labels 까지의 작업은 스킵해도 된다. 대신 PR 문서를 전부 작성했다면 Project Leader에게 연락을 취할 것.
