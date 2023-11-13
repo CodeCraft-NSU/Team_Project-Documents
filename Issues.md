@@ -7,6 +7,10 @@
 - [Issue / PR Rule](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md#issue--pr-rule)에 의거하여 제목과 내용을 기입한다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/f402c41b-b1f0-485e-aac1-f730a956bffc)
+- 이때, 본문과 댓글에서 Markdown 문법을 통해 글을 작성할 수 있는데, 자세한 작성 방법(문법)은 [Markdown Syntax 문서](Markdown_Syntax.md)를 참고할 것.
+
+![image](https://github.com/kimch0612/OOP2_Project/assets/10193967/f49ec036-e7df-4cfb-ba97-1e66b92fb4c3)
+![image](https://github.com/kimch0612/OOP2_Project/assets/10193967/17cb42c7-9949-468b-922d-879b1fc9015e)
 
 - Assign에 자가 자신과 Project Leader를 선택한다.
 
