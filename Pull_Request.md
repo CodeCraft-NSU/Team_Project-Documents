@@ -67,6 +67,8 @@
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/992c07df-9d4c-41c4-aad9-d29a4bc74571)
 
 - 이후 Project Leader가 PR을 확인하고 master branch에 merge했다면 자동으로 Issue와 PR은 닫힐 것이다.
+  - 만약 Project Leader가 특정 부분을 수정해달라고 Change Request를 보냈다면, 다시 자신의 Repository로 돌아가 master branch가 아닌 새로 만든 branch를 선택하고, 수정 요청을 받은 파일로 들어가 작업을 진행하면 된다.
+  - 수정을 진행하고  Commit directly to the [branch name] branch 옵션으로 Propose changes 버튼을 클릭하면 수정 사항이 저장될텐데, 이는 자동으로 PR로도 전송되니 Propose changes를 했다면 다시 PR 페이지로 돌아가 수정 사항이 연동됐는지 정도만 확인해준다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/569919cc-8575-4e02-bdac-e52caf239425)
 - Project Leader가 PR에 관해서 완료됐다고 알려주면 자신의 Repository에 가서 작업한 Branch를 제거해준다.
