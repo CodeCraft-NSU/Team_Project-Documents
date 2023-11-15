@@ -69,8 +69,14 @@
 - 이후 Project Leader가 PR을 확인하고 master branch에 merge했다면 자동으로 Issue와 PR은 닫힐 것이다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/569919cc-8575-4e02-bdac-e52caf239425)
+- Project Leader가 PR에 관해서 완료됐다고 알려주면 자신의 Repository에 가서 작업한 Branch를 제거해준다.
+  - branch 버튼을 클릭하고 View all branches를 클릭한다.
+  - master (혹은 main) Branch를 제외한 모든 branch를 휴지통 모양의 버튼을 클릭해서 삭제해준다.
 
-- 작업이 모두 끝난 후에 다시 작업을 진행하려면 다시 Fork를 할 것이 아니라, 내 계정에 있는 Fork된 Repository에 들어가 Sync fork -> Update branch를 실행해 Repository를 최신화한 뒤 작업을 진행한다.
+![Screenshot_20231115_142037_Samsung Internet](https://github.com/kimch0612/OOP2_Project/assets/10193967/f202c48a-db30-451b-a34d-8aaebc622c33)
+![Screenshot_20231115_142121_Samsung Internet](https://github.com/kimch0612/OOP2_Project/assets/10193967/11a0ca26-7a65-4206-a9a6-109309c92b5d)
+- 이후에 다시 수정이나 추가 등 작업을 진행하려면 또 Fork를 할 것이 아니라, 내 계정에 있는 Fork된 Repository에 들어가 Sync fork -> Update branch를 실행해 Repository를 최신화한 뒤 작업을 진행한다.
+  - 만약 Up-To-Date와 같은 메세지가 떠있다면 내가 마지막으로 수정한 이후로 Team Project가 수정된 적이 없다는 뜻으로, 이와 같은 메세지를 확인했다면 이 항목은 무시하고 수정 작업부터 다시 시작하면 된다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/9881ed8b-30d2-4870-a42e-437d7ae6b5ec)
 
