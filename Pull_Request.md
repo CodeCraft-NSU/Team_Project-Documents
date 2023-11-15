@@ -24,6 +24,8 @@
 
 - Commit message는 [Commit Rule](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md#commit-rule)에 따라 작성하고, Extended description은 수정사항에 대해 간략한 설명을 작성한다.
 - 하단에 있는 branch 파트는 'Commit directly to the master branch'에서 'Create a new branch for this commit and start a pull request'로 변경하고, Branch name을 [Branch Rule](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md#branch-rule)에 맞게 작성한다.
+  - 이때, 자신이 PR 작업을 진행하면서 분기점을 한 번이라도 만들었다면 (헌재 작업중인 PR에서 위의 작업을 한 번이라도 진행한적이 있다면) 이 옵션을 선택하지 말고 Commit directly to the [branch name] branch 옵션으로 둔다.
+  - 이미 Branch를 새로 만들었음에도 수정할 때마다 New Branch를 하게 된다면 불필요한 branch가 생성되며, PR에 자신이 수정한 사항이 전달되지 않는다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/82aee5cd-3a32-46df-973c-f2413fadd5fa)
 
