@@ -70,7 +70,7 @@
   - 만약 Project Leader가 특정 부분을 수정해달라고 Change Request를 보냈다면, 다시 자신의 Repository로 돌아가 master branch가 아닌 새로 만든 branch를 선택하고, 수정 요청을 받은 파일로 들어가 작업을 진행하면 된다.
   - 수정을 진행하고  Commit directly to the [branch name] branch 옵션으로 Propose changes 버튼을 클릭하면 수정 사항이 저장될텐데, 이는 자동으로 PR로도 전송되니 Propose changes를 했다면 다시 PR 페이지로 돌아가 수정 사항이 연동됐는지 정도만 확인해준다.
 
-![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/569919cc-8575-4e02-bdac-e52caf239425)
+![Screenshot_20231115_144721_Samsung Notes](https://github.com/yymin1022/Wa_API/assets/10193967/61dd3210-4e0f-4555-b91b-40e6d4d9b3ed)
 - Project Leader가 PR에 관해서 완료됐다고 알려주면 자신의 Repository에 가서 작업한 Branch를 제거해준다.
   - branch 버튼을 클릭하고 View all branches를 클릭한다.
   - master (혹은 main) Branch를 제외한 모든 branch를 휴지통 모양의 버튼을 클릭해서 삭제해준다.
