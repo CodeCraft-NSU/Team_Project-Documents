@@ -1,7 +1,7 @@
 # Pull Request (PR) 작성 방법
 
 - 작업하고자 하는 Repository에 접속해 우측 상단에 있는 Fork 버튼을 클릭한다.
-  - PR을 작성하기 전에 해당하는 Issue 작성이 반드시 선행되어야 한다.
+  - PR을 작성하기 전에 해당하는 [Issue 작성](Issues.md)이 반드시 선행되어야 한다.
   - 최초 1회만 Fork 작업을 진행하면 되고, 한 번 Fork 작업을 진행한 Repository는 다시 진행할 필요가 없다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/f4715ca3-7651-4b20-b418-415c3254a608)
