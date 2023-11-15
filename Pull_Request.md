@@ -14,7 +14,7 @@
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/5c7e3e32-e482-4e95-b78f-f08cdd27bcfc)
 
-- 이제 자신이 수정하고자 하는 파일에 들어가 [작업 협약](https://github.com/kimch0612/Team_Project-Documents/blob/master/Convention.md)에 맞게 수정 작업을 진행한다.
+- 이제 자신이 수정하고자 하는 파일에 들어가 수정 작업을 진행한다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/ce77acb4-0e0f-45d3-9fe4-c51f70b52f53)
 
