@@ -1,4 +1,6 @@
-# Pull Request (PR) 작성 방법
+Pull Request (PR) 작성 방법
+======
+
 
 - 작업하고자 하는 Repository에 접속해 우측 상단에 있는 Fork 버튼을 클릭한다.
   - PR을 작성하기 전에 해당하는 [Issue 작성](Issues.md)이 반드시 선행되어야 한다.
