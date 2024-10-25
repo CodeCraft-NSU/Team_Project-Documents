@@ -3,7 +3,6 @@ Pull Request (PR) 작성 방법
 
 
 - 작업하고자 하는 Repository에 접속해 우측 상단에 있는 Fork 버튼을 클릭한다.
-  - PR을 작성하기 전에 해당하는 [Issue 작성](Issues.md)이 반드시 선행되어야 한다.
   - 최초 1회만 Fork 작업을 진행하면 되고, 한 번 Fork 작업을 진행한 Repository는 다시 진행할 필요가 없다.
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/f4715ca3-7651-4b20-b418-415c3254a608)
@@ -56,19 +55,7 @@ Pull Request (PR) 작성 방법
 
 ![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/dc37e60f-652b-484f-b8ed-78191766b9b8)
 
-- PR이 열린 것을 확인했다면 자신이 작성한 Issue로 돌아가서 Development를 수정한다.
-  - 톱니바퀴를 누르면 첫번째 사진과 같이 나올텐데, 자신이 작업한 프로젝트를 선택하면 된다.
-  - 다음으로는 자신이 작업한 PR의 이름을 선택하고 Apply를 클릭한다.
-
-![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/aaa22acd-59d7-45bf-a008-fd64282602b9)
-
-![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/6eccda15-cfe7-4d41-81cd-56b1abb7f19c)
-
-- 완료했다면 자신이 작성한 Issue와 PR이 서로 연동이 될 것이다.
-
-![image](https://github.com/kimch0612/Team_Project-Documents/assets/10193967/992c07df-9d4c-41c4-aad9-d29a4bc74571)
-
-- 이후 Project Leader가 PR을 확인하고 master branch에 merge했다면 자동으로 Issue와 PR은 닫힐 것이다.
+- 이후 Project Leader가 PR을 확인하고 master branch에 merge했다면 자동으로 PR은 닫힐 것이다.
   - 만약 Project Leader가 특정 부분을 수정해달라고 Change Request를 보냈다면, 다시 자신의 Repository로 돌아가 master branch가 아닌 새로 만든 branch를 선택하고, 수정 요청을 받은 파일로 들어가 작업을 진행하면 된다.
   - 수정을 진행하고  Commit directly to the [branch name] branch 옵션으로 Propose changes 버튼을 클릭하면 수정 사항이 저장될텐데, 이는 자동으로 PR로도 전송되니 Propose changes를 했다면 다시 PR 페이지로 돌아가 수정 사항이 연동됐는지 정도만 확인해준다.
 
